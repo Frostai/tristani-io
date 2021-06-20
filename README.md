@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Tristani's portfolio site
+
+ReactTS website hosted in Heroku and using TailwindCSS
+
+
+
+
+
+
+
+
+
+#
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
